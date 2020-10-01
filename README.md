@@ -1,4 +1,4 @@
-# HandCricket
+# Hand Cricket Player Ground (HCPG)
 
 ## About
 - This is a game of Hand Cricket that is played against a computer opponent.
